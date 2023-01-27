@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: client
+
+client:
+  app:
+    lifeExpectancyMan: 72 #by inei statistics
+    lifeExpectancyWoman: 77.3 #by inei statistics
